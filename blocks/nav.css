@@ -22,6 +22,12 @@
   font-style: normal;
   font-weight: 500;
   color: black;
+  transition: opacity 0.8s;
+  cursor: pointer;
+}
+
+.nav__link:hover {
+  opacity: 0.5;
 }
 
 .nav__logo {

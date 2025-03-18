@@ -24,9 +24,13 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - styling htlm with css
 - button
 - hover
+- pulsate animation using keyframes
+- smooth transition hover changing opacity/tranistion colors
 
 Screenshots to date:
 
 ![header](./images/eb-triplepeaks-header.png)
 ![recipes](./images/eb-recipes.png)
 ![reservations-form](./images/eb-reservations.png)
+![menu](./images/menu.png)
+![about-footer](./images/about_and_footer.png)
